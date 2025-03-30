@@ -1,8 +1,6 @@
-# assignment2
+# Assignment2: Airbnb Pricing Prediction Model
 
 The dataset is too big to upload here, but I use the dataset of NYC 2024 DEC 31st. Rhoad Island DEC 31st. NYC 2024 Apr 6th.
-
-# Airbnb Pricing Prediction Model
 
 This project develops a machine learning model to predict Airbnb listing prices across different cities and time periods. The model aims to help Airbnb operators determine optimal pricing strategies by analyzing property features, location data, and market dynamics.
 
