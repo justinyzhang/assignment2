@@ -2,20 +2,20 @@
 
 The dataset is too big to upload here, but I use the dataset of NYC 2024 DEC 31st. Rhoad Island DEC 31st. NYC 2024 Apr 6th.
 
-# 🏠 Airbnb Pricing Prediction Model
+# Airbnb Pricing Prediction Model
 
 This project develops a machine learning model to predict Airbnb listing prices across different cities and time periods. The model aims to help Airbnb operators determine optimal pricing strategies by analyzing property features, location data, and market dynamics.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ### 1. Data Collection and Exploration
 
 **Datasets:**
-- 🗽 NYC Main dataset (37,434 listings)
-- 📆 NYC 2024 Q1 dataset (38,377 listings)
-- 🌊 Rhode Island dataset (5,479 listings)
+- NYC Main dataset (37,434 listings)
+- NYC 2024 Q1 dataset (38,377 listings)
+- Rhode Island dataset (5,479 listings)
 
 **Initial Explorations:**
 - Checking data shapes and consistency
@@ -62,11 +62,11 @@ This project develops a machine learning model to predict Airbnb listing prices 
 - Standardized numeric features
 
 **Models:**
-- 📊 Ordinary Least Squares (OLS / Ridge)
-- 🔎 LASSO Regression
-- 🌳 Random Forest
-- ⚡ LightGBM (Gradient Boosting)
-- 📍 k-Nearest Neighbors (KNN)
+- Ordinary Least Squares (OLS / Ridge)
+- LASSO Regression
+- Random Forest
+- LightGBM (Gradient Boosting)
+- k-Nearest Neighbors (KNN)
 
 **Metrics:**
 - R² (coefficient of determination)
@@ -102,7 +102,7 @@ This project develops a machine learning model to predict Airbnb listing prices 
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 - **LightGBM** outperformed all models (R² = 0.775)
 - **Random Forest** was a close second (R² = 0.757)
@@ -113,7 +113,7 @@ This project develops a machine learning model to predict Airbnb listing prices 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - pandas, NumPy
@@ -123,7 +123,7 @@ This project develops a machine learning model to predict Airbnb listing prices 
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates a full pipeline for price modeling using real-world Airbnb data, with strong results and valuable insights for pricing optimization across time and space.  
 It highlights the importance of using robust machine learning models and thoughtful feature engineering in dynamic markets.
